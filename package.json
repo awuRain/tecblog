@@ -1,0 +1,26 @@
+{
+  "name": "tecblog",
+  "version": "1.0.0",
+  "description": "技术博客",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awuRain/tecblog.git"
+  },
+  "keywords": [
+    "frontend",
+    "node",
+    "koa",
+    "vue",
+    "less"
+  ],
+  "author": "awurain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/awuRain/tecblog/issues"
+  },
+  "homepage": "https://github.com/awuRain/tecblog#readme"
+}
